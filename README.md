@@ -8,9 +8,9 @@ Assalamualalikum(Peace be upon you).
 I focus on creating elegant digital experiences using React.js and Tailwind CSS on the frontend, and crafting solid backend architectures with Node.js, Express.js, and MongoDB.
 
 ## 🛠️ Skills
-- 🧩 Frontend: HTML, CSS, Tailwind CSS, Javascript, React.js, Next.js
-- ⚙️ Backend: Node.js, Express.js, MongoDB, Next.js
-- 🔧 Other: Firebase, Basic Problem Solving
+- 🧩 Frontend: HTML | CSS | Tailwind CSS | Javascript | React.js | Next.js
+- ⚙️ Backend: Node.js | Express.js | MongoDB | Next.js
+- 🔧 Other: Firebase | Basic Problem Solving
 - 💬 Languages: Proficient in English (Conversation and Writing)
 
 ## 💼 What I do
