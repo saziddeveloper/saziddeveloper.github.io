@@ -1,7 +1,7 @@
 # saziddeveloper.github.io
 MY PORTFOLIO WEBSITE
 
-👨‍💻 Ashaduzzaman Sazid - MERN Stack Developer | Front-End & Back-End Specialist
+# 👨‍💻 Ashaduzzaman Sazid - MERN Stack Developer | Front-End & Back-End Specialist
 
 Assalamualalikum(Peace be upon you).
 👋 Hi, I'm Ashaduzzaman Sazid, a passionate MERN Stack & Full Stack Developer who loves building modern, scalable, and user-friendly web applications.
