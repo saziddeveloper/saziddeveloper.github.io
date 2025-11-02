@@ -30,4 +30,4 @@ I focus on creating elegant digital experiences using React.js and Tailwind CSS 
 🤵 LinkedIn: [linkedin.com/saziddeveloper](https://www.linkedin.com/in/saziddeveloper)
 
 Every great project starts with a single line of code — let’s keep writing ours. 💡
-— Ashaduzzaman Sajid
+— Ashaduzzaman Sazid
