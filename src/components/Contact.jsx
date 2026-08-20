@@ -116,7 +116,7 @@ const ContactSection = () => {
                         {/* Email */}
                         <div className="block">
                             <p className="text-gray-400 text-sm mb-2">Email:</p>
-                            <a href="mailto:msgoat550@gmail.com" className="text-lg md:text-xl tracking-wide hover:text-[#ccff00] transition-colors break-all">msgoat550@gmail.com</a>
+                            <a href="mailto:saziddeveloper@gmail.com" className="text-lg md:text-xl tracking-wide hover:text-[#ccff00] transition-colors break-all">saziddeveloper@gmail.com</a>
                         </div>
 
                         {/* Phone / Role */}
@@ -129,21 +129,21 @@ const ContactSection = () => {
                         <div className="mt-2 md:mt-4 flex flex-col items-start">
                             <p className="text-gray-400 text-sm mb-4">Follow us</p>
                             <div className="flex items-center justify-start gap-3">
-                                <a href="https://www.instagram.com/hxniii_syed?igsh=MWJsY2FmYW1na3Nubw==" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-colors">
+                                <a href="https://www.instagram.com/saziddeveloper" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-colors">
                                     <svg xmlns="http://www.w3.org/2000/svg" className="w-4 h-4 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                                         <rect width="20" height="20" x="2" y="2" rx="5" ry="5"/>
                                         <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/>
                                         <line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/>
                                     </svg>
                                 </a>
-                                <a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-colors">
+                                <a href="https://www.linkedin.com/in/saziddeveloper" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-colors">
                                     <svg xmlns="http://www.w3.org/2000/svg" className="w-4 h-4 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                                         <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
                                         <rect width="4" height="12" x="2" y="9"/>
                                         <circle cx="4" cy="4" r="2"/>
                                     </svg>
                                 </a>
-                                <a href="https://github.com/Hxni786" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-colors">
+                                <a href="https://github.com/saziddeveloper" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-colors">
                                     <svg xmlns="http://www.w3.org/2000/svg" className="w-4 h-4 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                                         <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
                                     </svg>

@@ -90,20 +90,20 @@ const servicesData = [
       'Multi-User Social & Directory Engines'
     ]
   },
-  {
-    id: '06',
-    title: 'TALKING VIDEO & AI AVATAR PORTFOLIOS',
-    description: 'I design interactive video portfolio applications and AI-driven avatar experiences that engage visitors with real-time video presentation, speech synthesis, dynamic multimedia showcases, and custom video player controls.',
-    capabilities: [
-      'Interactive Talking Video Presentation',
-      'Framer Motion & AOS Scroll Animations',
-      'AI Video Integration & Speech Sync',
-      'Custom Video Player Controls & Playback',
-      'Responsive Web Portfolio Layouts'
-    ],
-    buttonText: 'SEE DEMO PORTFOLIO',
-    buttonHref: 'https://talking-video-portfolio.vercel.app/'
-  }
+  // {
+  //   id: '06',
+  //   title: 'TALKING VIDEO & AI AVATAR PORTFOLIOS',
+  //   description: 'I design interactive video portfolio applications and AI-driven avatar experiences that engage visitors with real-time video presentation, speech synthesis, dynamic multimedia showcases, and custom video player controls.',
+  //   capabilities: [
+  //     'Interactive Talking Video Presentation',
+  //     'Framer Motion & AOS Scroll Animations',
+  //     'AI Video Integration & Speech Sync',
+  //     'Custom Video Player Controls & Playback',
+  //     'Responsive Web Portfolio Layouts'
+  //   ],
+  //   buttonText: 'SEE DEMO PORTFOLIO',
+  //   buttonHref: 'https://talking-video-portfolio.vercel.app/'
+  // }
 ];
 
 const Services = () => {
@@ -218,7 +218,7 @@ const Services = () => {
         {/* Giant Title */}
         <div className="flex flex-col md:flex-row items-start justify-end gap-2 md:gap-4 lg:gap-8 pr-2 md:pr-0 text-right">
           <h2 ref={titleRef} className="text-3xl sm:text-4xl md:text-7xl lg:text-8xl font-black tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-white via-gray-300 to-gray-800 drop-shadow-2xl leading-[1.1] md:leading-[0.9] text-right">
-            WHAT WE<br/>CAN DO
+            WHAT I<br/>CAN DO
           </h2>
         </div>
       </div>

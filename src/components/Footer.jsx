@@ -21,8 +21,8 @@ const Footer = () => {
           <div className="flex flex-col gap-6 w-full md:w-auto">
             <div>
               <p className="text-gray-400 text-sm mb-2">Connect with me</p>
-              <a href="mailto:msgoat550@gmail.com" className="text-xl md:text-5xl font-medium hover:text-[#ccff00] transition-colors break-words">
-                msgoat550@gmail.com
+              <a href="mailto:saziddeveloper@gmail.com" className="text-xl md:text-5xl font-medium hover:text-[#ccff00] transition-colors break-words">
+                saziddeveloper@gmail.com
               </a>
             </div>
 
@@ -47,21 +47,21 @@ const Footer = () => {
 
         {/* Middle Section - Socials */}
         <div className="flex flex-wrap justify-between items-center py-6 border-t border-white/10 mb-4 text-sm md:text-lg font-medium">
-          <a href="https://www.instagram.com/hxniii_syed?igsh=MWJsY2FmYW1na3Nubw==" target="_blank" rel="noopener noreferrer" className="hover:text-[#ccff00] transition-colors">Instagram</a>
-          <a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="_blank" rel="noopener noreferrer" className="hover:text-[#ccff00] transition-colors">LinkedIn</a>
-          <a href="https://github.com/Hxni786" target="_blank" rel="noopener noreferrer" className="hover:text-[#ccff00] transition-colors">GitHub</a>
+          <a href="https://www.instagram.com/saziddeveloper" target="_blank" rel="noopener noreferrer" className="hover:text-[#ccff00] transition-colors">Instagram</a>
+          <a href="https://www.linkedin.com/in/saziddeveloper" target="_blank" rel="noopener noreferrer" className="hover:text-[#ccff00] transition-colors">LinkedIn</a>
+          <a href="https://github.com/saziddeveloper" target="_blank" rel="noopener noreferrer" className="hover:text-[#ccff00] transition-colors">GitHub</a>
         </div>
 
         {/* Huge Text Section */}
         <div className="w-full text-center flex-1 flex items-center justify-center min-h-0">
           <h1 className="text-[11vw] font-bold leading-none tracking-tighter" style={{ fontFamily: 'Inter, sans-serif' }}>
-            SYED HASSAN
+            Ashaduzzaman Sazid
           </h1>
         </div>
 
         {/* Bottom Section */}
         <div className="flex flex-col md:flex-row justify-between items-center text-xs text-gray-400 mt-auto pt-6">
-          <p>© {new Date().getFullYear()} Syed Hassan Dildar. All Rights Reserved.</p>
+          <p>© {new Date().getFullYear()} SAZIDDEVELOPER. All Rights Reserved.</p>
           <div className="flex gap-6 mt-4 md:mt-0">
             <a href="#" className="hover:text-white transition-colors">Privacy policy</a>
             <a href="#" className="hover:text-white transition-colors">Terms and conditions</a>

@@ -12,8 +12,8 @@ const toolsSkills = ["Git", "GitHub", "Vercel", "Postman", "VS Code", "npm", "AO
 
 const aboutWords = [
   { text: "Hey," }, { text: "I'm" },
-  { text: "Syed Hassan Dildar.", className: "font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400" },
-  { text: "A" }, { text: "Full-Stack" }, { text: "Developer" }, { text: "specializing" }, { text: "in" }, { text: "building" }, { text: "scalable" }, { text: "web," }, { text: "mobile," }, { text: "and" }, { text: "3D" }, { text: "applications" }, { text: "using" },
+  { text: "Ashaduzzaman Sazid.", className: "font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400" },
+  { text: "A" }, { text: "Full-Stack" }, { text: "Developer" }, { text: "specializing" }, { text: "in" }, { text: "building" }, { text: "scalable" }, { text: "web" }, { text: "applications," }, { text: "softwares" }, { text: "and" }, { text: "apps" }, { text: "using" },
   { text: "React,", className: "text-white font-medium" },
   { text: "React Native,", className: "text-white font-medium" },
   { text: "Node.js,", className: "text-white font-medium" },

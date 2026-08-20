@@ -3,7 +3,7 @@ import gsap from 'gsap';
 import centerImage from '../assets/hero_assets/hero_center.png';
 
 const Hero = ({ onPreloadComplete }) => {
-  const [text, setText] = useState('HASSAN');
+  const [text, setText] = useState('SAZID');
   const containerRef = useRef(null);
   const textRef = useRef(null);
   const subtitleRef = useRef(null);
@@ -16,7 +16,7 @@ const Hero = ({ onPreloadComplete }) => {
     document.body.style.overflow = 'hidden';
 
     const target = "PORTFOLIO";
-    const start = "HASSAN";
+    const start = "DEVELOPER";
     let iterations = 0;
     let intervalId;
     let timeoutId;
@@ -148,7 +148,7 @@ const Hero = ({ onPreloadComplete }) => {
         <img
           src={centerImage}
           alt="Hero Center Graphic"
-          className="w-[80vw] max-w-xs sm:max-w-sm md:max-w-md object-contain drop-shadow-[0_20px_50px_rgba(0,0,0,0.5)]"
+          className="w-[110vw] max-w-xl sm:max-w-lg md:max-w-xl object-contain drop-shadow-[0_20px_50px_rgba(0,0,0,0.5)]"
         />
       </div>
     </section>

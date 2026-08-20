@@ -50,7 +50,7 @@ const Navbar = () => {
       <nav className={`fixed top-0 left-0 w-full z-50 flex items-center justify-between px-6 py-5 md:px-12 md:py-6 transition-all duration-700 ease-in-out ${show ? 'translate-y-0 opacity-100' : '-translate-y-full opacity-0'} ${isMenuOpen ? 'bg-black/90 backdrop-blur-md' : 'bg-transparent'}`}>
         {/* Logo */}
         <div className="text-white font-black text-xl md:text-2xl tracking-widest uppercase cursor-pointer relative z-50">
-          HASSAN
+          SAZIDDEVELOPER
         </div>
 
         {/* Navigation Links (Desktop) */}
