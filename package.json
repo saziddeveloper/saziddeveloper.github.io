@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://saziddeveloper.github.io/My-Portfolio2",
+  "homepage": "https://saziddeveloper.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
