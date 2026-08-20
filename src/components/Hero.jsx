@@ -148,7 +148,7 @@ const Hero = ({ onPreloadComplete }) => {
         <img
           src={centerImage}
           alt="Hero Center Graphic"
-          className="w-[110vw] max-w-xl sm:max-w-lg md:max-w-xl object-contain drop-shadow-[0_20px_50px_rgba(0,0,0,0.5)]"
+          className="w-[80vw] max-w-xl sm:max-w-lg md:max-w-xl object-contain drop-shadow-[0_20px_50px_rgba(0,0,0,0.5)]"
         />
       </div>
     </section>
