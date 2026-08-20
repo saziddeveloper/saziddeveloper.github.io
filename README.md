@@ -1,6 +1,6 @@
-# Full-Stack Developer Portfolio
+# SAZIDDEVELOPER Portfolio
 
-![Hero Section Preview](./hero_screenshot.png)
+![Hero Section Preview](./favicon.png)
 
 A high-performance, cinematic developer portfolio web application built with **React**, **Vite**, **Tailwind CSS**, **GSAP**, and **Lenis Smooth Scroll**. Designed with modern dark-mode aesthetics, rich micro-interactions, scroll-driven parallax effects, and ultra-responsive mobile viewports.
 
@@ -54,54 +54,5 @@ portfolio/
 ├── package.json             # Dependencies & scripts
 └── vite.config.js           # Vite dev server configuration
 ```
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed on your environment:
-- **Node.js**: `v18.0.0` or higher
-- **npm**: `v9.0.0` or higher
-
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd portfolio
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**:
-   ```bash
-   npm run dev
-   ```
-   Open `http://localhost:5174` in your browser to view the application locally.
-
-4. **Expose to local network (Mobile Testing)**:
-   Access `http://<your-local-ip>:5174` from any phone connected to the same Wi-Fi network.
-
-5. **Build for production**:
-   ```bash
-   npm run build
-   ```
-
----
-
-## 🔒 License & Usage Restrictions
-
-**Copyright © 2026. All Rights Reserved.**
-
-This software and all associated source code, design layouts, graphics, branding assets, scripts, and media files are strictly **PROPRIETARY**.
-
-### Terms of Use:
-- ❌ **No Unauthorized Copying**: You may **NOT** copy, clone, reproduce, or mirror any portion of this repository or its source code.
-- ❌ **No Commercial or Non-Commercial Distribution**: You may **NOT** distribute, sell, sublicense, host, publish, or commercially exploit this codebase or design.
-- ❌ **No Derivative Works**: Modification, adaptation, or creation of derivative works based on this project is strictly prohibited.
+n of derivative works based on this project is strictly prohibited.
 - 🔒 **Explicit Permission Required**: Any use, modification, or deployment of this repository is strictly prohibited without explicit, written consent from the copyright holder.
