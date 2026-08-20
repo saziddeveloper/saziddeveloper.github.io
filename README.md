@@ -1,6 +1,6 @@
 # SAZIDDEVELOPER Portfolio
 
-![Hero Section Preview](./favicon.png)
+![Hero Section Preview](./src/assets/hero_assets/hero_center.png)
 
 A high-performance, cinematic developer portfolio web application built with **React**, **Vite**, **Tailwind CSS**, **GSAP**, and **Lenis Smooth Scroll**. Designed with modern dark-mode aesthetics, rich micro-interactions, scroll-driven parallax effects, and ultra-responsive mobile viewports.
 
