@@ -53,4 +53,3 @@ portfolio/
 └── vite.config.js           # Vite dev server configuration
 ```
 
-, or deployment of this repository is strictly prohibited without explicit, written consent from the copyright holder.
