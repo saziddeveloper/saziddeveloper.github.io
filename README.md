@@ -1,6 +1,6 @@
 # SAZIDDEVELOPER Portfolio
 
-![Hero Section Preview](./favicon.png)
+![Hero Section Preview](./src/assets/hero_assets/hero_center.png)
 
 A high-performance, cinematic developer portfolio web application built with **React**, **Vite**, **Tailwind CSS**, **GSAP**, and **Lenis Smooth Scroll**. Designed with modern dark-mode aesthetics, rich micro-interactions, scroll-driven parallax effects, and ultra-responsive mobile viewports.
 
@@ -54,5 +54,4 @@ portfolio/
 ├── package.json             # Dependencies & scripts
 └── vite.config.js           # Vite dev server configuration
 ```
-n of derivative works based on this project is strictly prohibited.
-- 🔒 **Explicit Permission Required**: Any use, modification, or deployment of this repository is strictly prohibited without explicit, written consent from the copyright holder.
+
