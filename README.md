@@ -4,6 +4,14 @@ A high-performance, cinematic developer portfolio web application built with **R
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="saziddeveloper's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+---
+
 ## ✨ Features
 
 - 🎬 **Cinematic Motion & Animations**: GSAP ScrollTrigger timeline reveals, letter-scramble preloader, and smooth image parallax depth.
