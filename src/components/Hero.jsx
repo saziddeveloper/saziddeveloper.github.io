@@ -143,7 +143,7 @@ const Hero = ({ onPreloadComplete }) => {
 
       <div
         ref={imageRef}
-        className="relative z-10 text-center text-white flex flex-col items-center w-full pointer-events-none translate-y-[100vh]"
+        className="relative z-10 text-center text-white flex flex-col items-center w-full pointer-events-none translate-y-[80vh]"
       >
         <img
           src={centerImage}
