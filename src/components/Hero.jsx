@@ -102,7 +102,7 @@ const Hero = ({ onPreloadComplete }) => {
 
   return (
     <section
-      className="relative min-h-screen flex items-end justify-center bg-cover bg-center bg-no-repeat overflow-hidden"
+      className="relative min-h-dvh flex items-end justify-center bg-cover bg-center bg-no-repeat overflow-hidden"
       style={{ background: 'radial-gradient(circle, #222222 0%, #000000 80%)' }}
     >
       <div className="absolute inset-0 bg-black/40 backdrop-blur-[2px]"></div>
@@ -143,7 +143,7 @@ const Hero = ({ onPreloadComplete }) => {
 
       <div
         ref={imageRef}
-        className="relative z-10 text-center text-white flex flex-col items-center w-full pointer-events-none translate-y-[80vh]"
+        className="relative z-10 text-center text-white flex flex-col items-center w-full pointer-events-none translate-y-[100vh]"
       >
         <img
           src={centerImage}
